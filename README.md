@@ -18,7 +18,6 @@ This project is a smart contract-based lottery raffle system built using Solidit
 ## Installation
 Ensure you have Foundry installed. If not, install it using:
 ```sh
-curl -L https://foundry.paradigm.xyz | bash
 foundryup
 ```
 Clone the repository:
